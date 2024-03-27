@@ -19,7 +19,7 @@ webImport("ui/main")
 <ins>New Discord server will be established when the next major release is ready for use</ins>
 
 <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/633472429917995038/722143730500501534/Peroxide_Logo.png"/>
+    <img src="https://cdn.discordapp.com/attachments/633472429917995038/722143730500501534/Hydroxide_Logo.png"/>
     </br>
     <img src="https://raw.githubusercontent.com/Upbolt/Peroxide/revision/github-assets/ui.png" width="677px"/>
 </p>
